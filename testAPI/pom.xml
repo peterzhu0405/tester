@@ -6,7 +6,11 @@
 
     <groupId>com.tester</groupId>
     <artifactId>testAPI</artifactId>
+    <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
+    <modules>
+        <module>extenReport</module>
+    </modules>
 
     <dependencies>
         <dependency>
