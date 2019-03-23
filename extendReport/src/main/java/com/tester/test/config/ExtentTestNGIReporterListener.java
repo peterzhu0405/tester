@@ -1,4 +1,4 @@
-package com.tester.config;
+package com.tester.test.config;
 
 
 import com.aventstack.extentreports.ExtentReports;

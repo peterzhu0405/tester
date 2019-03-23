@@ -10,6 +10,7 @@
 
     <modules>
         <module>testAPI</module>
+        <module>extendReport</module>
     </modules>
 
 

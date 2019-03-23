@@ -11,3 +11,6 @@ model和mapper中的sql.xml 文件一一对应
 执行sql语句的工具类 DatabaseUtil 这个对象是用来执行sql语句 后期写一个单例 模式维护起来
 
 ConfigFile 工具类是用来拼接url的工具类和InterfaceName 枚举对象结合使用 获取 application 中的接口路径
+
+============================
+增加测试报告监听类
